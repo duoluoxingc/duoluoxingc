@@ -3,7 +3,7 @@
 
 欢迎访问我的个人主页。
 
-🔗 在线访问：[https://duoluoxingc.github.io](https://duoluoxingc.github.io)
+🔗 在线访问：[https://duoluoxingc.github.io/duoluoxingc/](https://duoluoxingc.github.io/duoluoxingc/)
 
 ## 关于
 这是一个通过 GitHub Pages 托管的静态网页。
